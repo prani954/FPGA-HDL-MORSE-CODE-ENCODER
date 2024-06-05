@@ -1,3 +1,6 @@
-# MORSE CODE ENCODER USING VERILOG
+## MORSE CODE ENCODER USING VERILOG
+
 **components required**
-Diligent Basys3 FPGA board
+
+1. Diligent Basys3 FPGA Board
+2. Vivado Software
